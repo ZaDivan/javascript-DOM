@@ -6,4 +6,4 @@
 
 > What are some refactoring techniques you might apply to the provided solution?
 
-Your reply here...
+I would use querySellectorAll for sorting, so that it is more convenient to add and change code.
